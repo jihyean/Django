@@ -16,7 +16,7 @@
 + 추천
 
 <br>
-부트스트랩 다운로드 - https://getbootstrap.com/docs/5.1/getting-started/download/
+부트스트랩 다운로드 - https://getbootstrap.com/docs/5.1/getting-started/download/ 
 
 `http://localhost:8000/pybo/` <br>
 `http://localhost:8000/admin/`
