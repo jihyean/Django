@@ -15,7 +15,7 @@
 + views.py 파일 분리
 + 추천
 + 앵커
-+ 마크다운(질문 / 답변)
++ 마크다운(질문 / 답변) 
 
 <br>
 부트스트랩 다운로드 - https://getbootstrap.com/docs/5.1/getting-started/download/ 
